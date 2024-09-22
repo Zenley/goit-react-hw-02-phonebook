@@ -1,0 +1,13 @@
+.formList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
